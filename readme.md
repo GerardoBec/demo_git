@@ -9,6 +9,10 @@ Saludos
 1. elemento 1
 1. elemento 2
 1. elemento 3
-  + elemento a
-  + elemento b
-  + elemento c
++ elemento a
++ elemento b
++ elemento c
+
+Problem:
+
+Inside the trajectory...
